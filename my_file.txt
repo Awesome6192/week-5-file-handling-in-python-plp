@@ -1,0 +1,6 @@
+Hello, this is my first line.
+Here is the second line with a number: 42.
+And this is the third line.
+This is the fourth line added later.
+Here comes the fifth line!
+Finally, this is the sixth line.
